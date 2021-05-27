@@ -14,8 +14,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjeet987&show_icons=true&theme=radical)
 
-[![Languages I've worked on](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeet987&layout=compact)](https://github.com/amarjeet987/github-readme-stats)
-
 <br>
 
 
