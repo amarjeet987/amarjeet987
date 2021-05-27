@@ -7,7 +7,7 @@
 ## Find me online 🌎
 
 - <a href="https://www.linkedin.com/in/ansh-mishra-">LinkedIn</a> 🤓
-- I post regular coding stuff - <a href="https://www.instagram.com/aus.lander_/">here</a> �🤳
+- <a href="https://www.instagram.com/codemanship/">Instagram</a> I post regular coding stuff here 🤳
 
  <br>
  <br>
