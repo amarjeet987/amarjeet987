@@ -17,6 +17,5 @@
 <br>
 
 
-:chart_with_upwards_trend: Contribution Graph
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=amarjeet987&theme=xcode" alt="Contribution Graph" align="center" />
+<br/>
+<img src="https://activity-graph.herokuapp.com/graph?username=amarjeet987&theme=xcode" alt="Contribution Graph" align="center" />
