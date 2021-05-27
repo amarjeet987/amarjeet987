@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-👨🏻‍💻 &nbsp;Basically into Mobile and frontend development.
+👨🏻‍💻 &nbsp;Basically into Mobile and frontend development. Did some ML for a while just to realize that it's not my thing. Bleh.
 
 ## Find me online 🌎
 
