@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi, I'm Amarjeet 👋
 
-<!--
-**amarjeet987/amarjeet987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-Here are some ideas to get you started:
+👨🏻‍💻 &nbsp;Basically into Mobile and frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me online 🌎
+
+- <a href="https://www.linkedin.com/in/ansh-mishra-">LinkedIn</a> 🤓
+- I post regular coding stuff - <a href="https://www.instagram.com/aus.lander_/">here</a> �🤳
+
+ <br>
+ <br>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjeet987&show_icons=true&theme=radical)
+
+[![Languages I've worked on](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeet987&layout=compact)](https://github.com/amarjeet987/github-readme-stats)
+
+<br>
+
+<summary>:trophy: Irrelevant milestones and stuff</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshmishra010&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+<br>
+
+<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=anshmishra010&theme=xcode" alt="Contribution Graph" align="center" />
