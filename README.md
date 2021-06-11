@@ -18,4 +18,3 @@
 
 
 <br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=amarjeet987&theme=xcode" alt="Contribution Graph" align="center" />
