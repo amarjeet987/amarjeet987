@@ -13,7 +13,9 @@
  <br>
  <br>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjeet987&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjeet987&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/amarjeet987/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amarjeet987&theme=highcontrast&ring=D400FF&fire=FFFFFF&currStreakLabel=D400FF&border=D400FF)](https://git.io/streak-stats)
 
 <br>
 
