@@ -9,7 +9,7 @@
 
 - <a href="https://www.linkedin.com/in/amarjeet987/">LinkedIn</a> 🤓
 - <a href="https://www.instagram.com/codemanship/">Instagram</a>  - I post regular coding stuff here 🤳
-
+<br/><br/><br/>
 <hr/>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjeet987&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
