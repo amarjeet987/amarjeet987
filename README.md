@@ -13,7 +13,7 @@
  <br>
  <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjeet987&count_private=true&show_icons=true&theme=dark&border_color=00AFF0)](https://github.com/amarjeet987/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjeet987&count_private=true&show_icons=true&theme=dark&border_color=00AFF0)](https://github.com/ anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amarjeet987&theme=dark&fire=00AFF0&hide_border=true&)](https://git.io/streak-stats)
 
