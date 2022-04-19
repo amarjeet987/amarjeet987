@@ -10,9 +10,3 @@
 <br/><br/><br/><br/><br/><br/>
 #
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amarjeet987&theme=dark&fire=00AFF0&hide_border=true&background=00000000)](https://git.io/streak-stats)
-
-<br>
-
-
-<br/>
