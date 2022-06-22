@@ -12,4 +12,5 @@ Mobile and Full-Stack Developer, helping fellow developers learn from my mistake
 - <a href="https://twitter.com/codepetence">Twitter</a> 🐤
 - <a href="https://app.gumroad.com/codepetence">GumRoad</a> 👽
 <br/><br/><br/><br/><br/><br/>
-# Thanks for the visit, have a great day ahead 🧑‍💻
+
+Thanks for the visit, have a great day ahead 🧑‍💻
