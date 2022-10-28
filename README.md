@@ -7,6 +7,7 @@ Mobile and Full-Stack Developer, helping fellow developers learn from my mistake
 
 ## Find me online 🌎
 
+- <a href="https://www.youtube.com/channel/UCq4ea0z1gAoSP6cKckvnmiQ">YouTube</a> 🤓
 - <a href="https://www.linkedin.com/in/amarjeet987/">LinkedIn</a> 🤓
 - <a href="https://www.instagram.com/codemanship/">Instagram</a> 🤳
 - <a href="https://twitter.com/codepetence">Twitter</a> 🐤
